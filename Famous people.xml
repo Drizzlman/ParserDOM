@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PeopleList>
+
+	<People>
+		<LastName>Kovalko</LastName>
+		<Age gender="M">18</Age>
+		<Role>Singer</Role>
+		<Wage>50000$</Wage>
+		<CountryOfBorn>Belarus</CountryOfBorn>
+	</People>
+	
+	<People>
+		<LastName>Maslovsky</LastName>
+		<Age gender="F">19</Age>
+		<Role>Dancer</Role>
+		<Wage>49000$</Wage>
+		<CountryOfBorn>Pakistan</CountryOfBorn>
+	</People>
+
+<People><LastName>Beniash</LastName><Age gender="F">19</Age><Role>Actor</Role><Wage>70000$</Wage><CountryOfBorn>Belarus</CountryOfBorn></People><People><LastName>Jon</LastName><Age gender="F">17</Age><Role>Singer</Role><Wage>200000$</Wage><CountryOfBorn>Russia</CountryOfBorn></People></PeopleList>
